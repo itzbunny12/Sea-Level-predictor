@@ -2,7 +2,7 @@ import unittest
 import sea_level_predictor
 import matplotlib as mpl
 import numpy as np
-
+ 
 
 # the test case
 class LinePlotTestCase(unittest.TestCase):
